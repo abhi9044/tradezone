@@ -63,6 +63,7 @@ const MapComponent = () => {
             }
         
         }
+    
     }, [drawingMode]);
 
     const handleSavePolygon = async () => {
